@@ -101,6 +101,14 @@ button{
     text-decoration: none;
 }
 
+.login_cont button{
+    width: 120px;
+    text-align: center;
+    border-radius: 10px;
+    height: 50px;
+    font-size:small;
+}
+
 /* ================= RESPONSIVE ================= */
 @media (max-width: 600px) {
     /* nav {
